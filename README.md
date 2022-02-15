@@ -1,5 +1,4 @@
-# supervised-ml-challenge
-
+# machine-learning-loan-risk-predicter
 ## About Predicting Credit Risk
 
 `Predicting Credit Risk` is a Python machine learning challenge that predicts whether a loan from LendingClub will become high risk or not. The machine learning models used are the Logistic Regression model and Random Forest Classifier model.
