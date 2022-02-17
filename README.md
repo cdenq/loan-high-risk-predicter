@@ -8,6 +8,11 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 ## Built with
 - Python
     - SKLearn
+        - Logistic Regression
+        - Random Forest Classifier
+        - Standard Scaler
+        - Label Encoder
+        - One-Hot Encoder
     - Matplotlib
 
 ## Technical Skills
